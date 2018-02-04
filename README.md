@@ -1,3 +1,3 @@
 # Duke Education
-This graph shows how the students in different departments select their PhD dissertation committees.
+This graph shows how the students in different departments select their graduate dissertation committees. Find the network [here](https://aghilzadeh.github.io/Duke_Education/) or the description of our project on my homepage!
 
